@@ -9,7 +9,7 @@ import NotFound from './components/pages/NotFound';
 import Test from './components/test/Test';
 
 import {Provider} from './context';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 // import './App.css';
